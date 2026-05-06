@@ -1,4 +1,4 @@
-# Tugas Praktikum 10: Spatial AI & WebGIS
+# Tugas Praktikum WebGIS
 
 **Nama:** M. Zahran Dhiyaul Haq  
 **NIM:** 123140120  
